@@ -56,7 +56,7 @@ def division(Q, M, A):
         count -= 1
     print ('\n(Q):', Q,' (A):', A)
  
-# Driver code
+
 if __name__ == "__main__":
     num = 56  # Numero a convertir.
     tamano = 4  # Cantidad de digitos 
